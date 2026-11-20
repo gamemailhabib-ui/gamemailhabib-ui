@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**gamemailhabib-ui/gamemailhabib-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./profile-banner.png" width="100%" alt="Gamer Habib Banner">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Gamer Habib
+
+### 🎮 Gamer | 💻 Developer | 🚀 Tech Enthusiast
+
+**Play • Code • Create**
+
+---
+
+### ⚡ What I Do
+
+🎮 Gaming & Entertainment
+
+💻 Software Development
+
+🚀 Building Projects
+
+🧠 Learning New Technologies
+
+</div>
+
+---
+
+## 🛠️ Technology & Tools
+
+- PHP & Laravel
+- JavaScript & TypeScript
+- React & Next.js
+- Node.js
+- MySQL & PostgreSQL
+- Git & GitHub
+- Docker
+
+## 🎯 My Goals
+
+- Build useful software products
+- Improve programming skills
+- Explore AI and modern technologies
+- Create and share new projects
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 💙
+
+**GAMER HABIB**
+
+*Play • Code • Create*
+
+</div>
